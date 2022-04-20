@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently building frontend applications for @Extendi
+- 🌱 I’m currently learning Ruby on Rails
+- ⚡ Fun fact: I love @Teslamotors
+
+
 <!--
 **giacomosardo/giacomosardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
